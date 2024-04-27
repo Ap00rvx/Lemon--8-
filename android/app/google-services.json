@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439774554688",
+    "project_id": "brave-d935c",
+    "storage_bucket": "brave-d935c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439774554688:android:35c8b830b97ad666108da5",
+        "android_client_info": {
+          "package_name": "com.example.brave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7CuHEx9bQAPFVTs61pygGSuVcyO5v0fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
